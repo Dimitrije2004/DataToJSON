@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729350938 source:c:\users\idimi\documents\codage\c\json\data-to-json\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
